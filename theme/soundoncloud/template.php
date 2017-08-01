@@ -68,7 +68,7 @@
 	<div class="clear"></div>
 
 <div id="footer"><?php get_footer(); ?>
-<div class="credits"><a href="http://www.audiocommons.org/">Audio Commons</a>, 2017 | developed by <a href="http://ariane.stolfi.org">ariane stolfi</a> with <a href="http://get-simple.info/">get simple cms</a></div>
+<div class="credits"><a href="http://audiomostly.com/">Audio Mostly 2017 Workshop </a>| site developed by <a href="http://ariane.stolfi.org">ariane stolfi</a> with <a href="http://get-simple.info/">get simple cms</a></div>
 </div>	
 	
 	
